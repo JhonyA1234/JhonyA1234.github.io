@@ -7,11 +7,11 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "Jhony Alejandro Hernandez Mendez Portafolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Soy un ingeniero apasionado por el codigo , el software y los sistemas enfocados como soluciones ideales para las problematicas del mundo",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Jhony Alejandro Hernandez Mendez Portfolio",
     type: "website",
     url: "http://ashutoshhathidara.com/",
   },
@@ -19,11 +19,11 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Ashutosh Hathidara",
+  title: "Jhony Alejandro Hernandez Mendez",
   logo_name: "AshutoshHathidara",
-  nickname: "layman_brother",
+  nickname: "Jhony Mendez Developer",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Soy un ingeniero apasionado por el codigo , el software y los sistemas enfocados como soluciones ideales para las problematicas del mundo",
   resumeLink:
     "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
   portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
