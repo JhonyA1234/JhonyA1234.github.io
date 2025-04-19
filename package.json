@@ -5,8 +5,8 @@
   "homepage": "https://JhonyA1234.github.io",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -b gh-pages -d build",
+   "predeploy": "npm run build",
+   "deploy": "rimraf node_modules/gh-pages/.cache && gh-pages -b gh-pages -d build",
     "eject": "react-scripts eject",
     "start": "react-scripts --openssl-legacy-provider start",
     "test": "react-scripts test"
