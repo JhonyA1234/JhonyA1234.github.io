@@ -9,11 +9,11 @@ const settings = {
 const seo = {
   title: "Jhony Alejandro Hernandez Mendez Portafolio",
   description:
-    "Soy un ingeniero apasionado por el codigo , el software y los sistemas enfocados como soluciones ideales para las problematicas del mundo",
+    "Soy un ingeniero apasionado por el codigo , el software y los sistemas enfocados como soluciones ideales para las problematicas del mundo y de las empresas",
   og: {
     title: "Jhony Alejandro Hernandez Mendez Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://jhonya1234.github.io",
   },
 };
 
