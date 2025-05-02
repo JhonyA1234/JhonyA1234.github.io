@@ -45,7 +45,7 @@ class Header extends Component {
                   onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
                   onMouseOut={(event) => onMouseOut(event)}
                 >
-                  Home
+                  INICIO
                 </NavLink>
               </li>
               <li>
@@ -57,7 +57,7 @@ class Header extends Component {
                   onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
                   onMouseOut={(event) => onMouseOut(event)}
                 >
-                  Education
+                  EDUCACIÓN
                 </NavLink>
               </li>
               <li>
@@ -69,7 +69,7 @@ class Header extends Component {
                   onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
                   onMouseOut={(event) => onMouseOut(event)}
                 >
-                  Experience
+                  EXPERIENCIA
                 </NavLink>
               </li>
               <li>
@@ -81,7 +81,7 @@ class Header extends Component {
                   onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
                   onMouseOut={(event) => onMouseOut(event)}
                 >
-                  Projects
+                  PROYECTOS
                 </NavLink>
               </li>
               <li>
@@ -93,7 +93,7 @@ class Header extends Component {
                   onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
                   onMouseOut={(event) => onMouseOut(event)}
                 >
-                  Open Source
+                  CODIGO ABIERTO
                 </NavLink>
               </li>
               <li>
@@ -105,7 +105,7 @@ class Header extends Component {
                   onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
                   onMouseOut={(event) => onMouseOut(event)}
                 >
-                  Contact Me
+                  CONTACTAME
                 </NavLink>
               </li>
             </ul>

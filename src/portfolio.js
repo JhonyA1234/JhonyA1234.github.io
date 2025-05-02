@@ -25,9 +25,9 @@ const greeting = {
   subTitle:
     "Soy un ingeniero apasionado por el codigo , el software y los sistemas enfocados como soluciones ideales para las problematicas del mundo",
   resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+    "https://drive.google.com/file/d/1tN2ijdrfMPT28dxHH9YfieOpGbXinPVg/view?usp=sharing",
+  portfolio_repository: "https://github.com/JhonyA1234",
+  githubProfile: "https://github.com/JhonyA1234",
 };
 
 const socialMediaLinks = [
@@ -78,7 +78,7 @@ const socialMediaLinks = [
   },
   {
     name: "Instagram",
-    link: "https://www.instagram.com/layman_brother/",
+    link: "https://www.instagram.com/JhonyMendez/",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
@@ -87,7 +87,7 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Data Science & AI",
+      title: "Desarrollo de Sistemas , IA y Devops",
       fileName: "DataScienceImg",
       skills: [
         "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
